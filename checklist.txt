@@ -1,0 +1,15 @@
+D:\Brain\Reading\Books\Once Upon An Algorithm\Pg. 114 - Mergesort as an Optimal Algorithm.md
+D:\Brain\Reading\Books\Once Upon An Algorithm\Pg. 140 - Language as Computer Science.md
+D:\Brain\Reading\Books\Once Upon An Algorithm\Pg. 161 - Nondeterministic Algorithms.md
+D:\Brain\Reading\Books\Once Upon An Algorithm\Pg. 17 - Once solved, always forward, seldom backwards..md
+D:\Brain\Reading\Books\Once Upon An Algorithm\Pg. 184 - The Groundhog Day Loop.md
+D:\Brain\Reading\Books\Once Upon An Algorithm\Pg. 19 - What is computation Two answers. Also, the best definition of algorithm..md
+D:\Brain\Reading\Books\Once Upon An Algorithm\Pg. 2 - Recipes as Computation.md
+D:\Brain\Reading\Books\Once Upon An Algorithm\Pg. 204 - Read this sentence again..md
+D:\Brain\Reading\Books\Once Upon An Algorithm\Pg. 224 - Another fun definition for computation..md
+D:\Brain\Reading\Books\Once Upon An Algorithm\Pg. 226 - Algorithmic Variables.md
+D:\Brain\Reading\Books\Once Upon An Algorithm\Pg. 26 - A few solid sentences about algorithms..md
+D:\Brain\Reading\Books\Once Upon An Algorithm\Pg. 282 - Church-Turing Thesis.md
+D:\Brain\Reading\Books\Once Upon An Algorithm\Pg. 52 - Interesting concept regarding symbols..md
+D:\Brain\Reading\Books\Once Upon An Algorithm\Pg. 56 - The Three Kinds of Signs.md
+D:\Brain\Reading\Books\Once Upon An Algorithm\Pg. 83 - Hunter Gatherer Collectors.md
