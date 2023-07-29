@@ -7,7 +7,7 @@ from collections import Counter
 from markdown_it import MarkdownIt
 import requests
 
-READWISE_API_KEY = 'MH27ZE7rlYwa2E4i8moa9zLTpIS9rcyQZukYVNnwsPBwKEW0mg'
+READWISE_API_KEY = os.getenv("READWISE_API_KEY")
 READWISE_API_URL = 'https://readwise.io/api/v2/highlights/'
 CHECKLIST_FILE = 'checklist.txt'
 
